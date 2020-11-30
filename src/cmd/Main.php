@@ -17,9 +17,9 @@ class main extends PluginBase implements Listener {
 
 	public $config;
       public function onEnable(){
-         $this->getLogger()->info("Enable");
+         $this->getLogger()->info("Plugin Enable");
 		  @mkdir($this->getDataFolder());
-		  $this->getServer()->getCommandMap()->register("Discord",new Discord("discord", $this));
+		  $this->getServer()->getCommandMap()->register(".",new Discord("discord", $this));
           }
         
       public function onDisable(){
