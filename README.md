@@ -3,4 +3,5 @@ Hey, voici un plugin mit sur github  ,j'ais pris une base provenant d'un autre d
 
 #crédit:
 Voici le lien de la ou j'ais pris la base du plugin [Elusionix Github](https://github.com/Elusionix/Discord-Command-Pocketmine)
+#Mon discord :
 Mon discord en cas de problème : [Discord](https://discord.com/invite/TJjSge3)
